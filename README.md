@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Amol Kumar</h1>
 
 <p align="center">
@@ -145,4 +144,3 @@ Personal developer portfolio showcasing projects, skills and achievements.
 *"Code. Learn. Improve. Repeat."*
 
 </p>
-```
