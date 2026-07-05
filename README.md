@@ -18,7 +18,7 @@
 
 # 💎 About Me
 
-yaml
+``` yaml
 Name: Amol Kumar
 
 Education:
@@ -34,7 +34,7 @@ Current Focus:
 Goal:
   Become a Full-Stack Developer
   and build impactful AI-powered applications.
-
+```
 
 ---
 
