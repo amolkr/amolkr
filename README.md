@@ -42,7 +42,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,flutter,java,python,c,git,github,vscode,figma,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,flutter,dart,java,python,c,git,github,vscode,figma,androidstudio"/>
 
 </p>
 
